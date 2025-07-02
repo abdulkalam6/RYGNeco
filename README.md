@@ -1,7 +1,9 @@
 
-# TaskFlow - Personal Task Tracker 📋
+# NekoTasks - Anime Theme personal Task Tracker 📋
 
-A beautiful, responsive personal task tracker built with React.js that helps you manage your daily tasks efficiently. Features a clean interface with smooth animations and persistent data storage.
+A beautifully animated, responsive task tracker built with React.js and Tailwind CSS. Designed with anime aesthetics, it offers a delightful user experience while helping you organize and manage your daily missions efficiently.
+
+✨ Features include a clean glassmorphic UI, soft gradients, smooth transitions, intelligent filters, persistent local storage, and motivational stats — making productivity feel like a daily adventure.
 
 
 ## ✨ Features
