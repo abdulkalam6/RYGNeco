@@ -41,7 +41,7 @@ A beautifully animated, responsive task tracker built with React.js and Tailwind
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-demo-url.netlify.app) *(Deploy to get URL)*
+[View Live Demo](https://rygneco.netlify.app/) 
 
 ## 📁 Project Structure
 
